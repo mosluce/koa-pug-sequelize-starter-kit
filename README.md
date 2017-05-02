@@ -1,1 +1,1 @@
-# Koa + Pug 起手式
+# Koa + Pug + Sequelize 起手式
